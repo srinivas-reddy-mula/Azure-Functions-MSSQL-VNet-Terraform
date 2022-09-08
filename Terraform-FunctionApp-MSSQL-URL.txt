@@ -1,1 +1,0 @@
-https://medium.com/@ejdoh1/deploy-azure-function-app-and-ms-sql-into-a-virtual-network-with-terraform-d2f6443826a2
