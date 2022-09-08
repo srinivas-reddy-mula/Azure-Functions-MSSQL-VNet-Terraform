@@ -1,7 +1,5 @@
 ## Document Link
-```
-Deploy Azure Function App and MS SQL into a Virtual Network with Terraform | by Erin | Medium
-```
+[https://medium.com/@ejdoh1/deploy-azure-function-app-and-ms-sql-into-a-virtual-network-with-terraform-d2f6443826a2](https://medium.com/@ejdoh1/deploy-azure-function-app-and-ms-sql-into-a-virtual-network-with-terraform-d2f6443826a2)
 ## Setup
 `cp .env.template .env` & update REPLACE_ME values
 
